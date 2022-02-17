@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 03 - Check Out</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47d3c64c-8655-4a14-ab79-881df278886d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c8692e8-6312-42dc-8b08-c2f4adbd3db9</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a4429209-6fbe-43c3-9072-5e22f7b0bb96</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>878851f4-9dab-4e85-8b4b-c161b9914366</id>
+      <masked>false</masked>
+      <name>Code</name>
+   </variable>
+</TestCaseEntity>

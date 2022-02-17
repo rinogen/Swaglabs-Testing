@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 00 - Order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>554c985b-8ad2-4ca5-81c9-18999e89fb4b</testCaseGuid>
+   <variable>
+      <defaultValue>'qwwqwqw'</defaultValue>
+      <description></description>
+      <id>4300c970-4077-4f1e-a16e-61f250697e16</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'qwqwqqw'</defaultValue>
+      <description></description>
+      <id>33adb878-d56e-42ca-b148-f2ff509aea68</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'qwqwqwqw'</defaultValue>
+      <description></description>
+      <id>3d5e72dc-37b8-40a0-bfd0-a2cf0b9a1832</id>
+      <masked>false</masked>
+      <name>Code</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tshirt Bold'</defaultValue>
+      <description></description>
+      <id>a9d2d03a-5703-417a-bf6e-137d01a7cdf4</id>
+      <masked>false</masked>
+      <name>Product</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 02 - Add to Chart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80400fb3-4645-48f7-88c1-f9adc8370860</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>885e9265-58cf-495f-8762-2fc38facb4b3</id>
+      <masked>false</masked>
+      <name>Product</name>
+   </variable>
+</TestCaseEntity>
